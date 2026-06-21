@@ -2,6 +2,10 @@
 
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Fox
 http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Sports hd
+https://live05.msdht.app/live/24561735.m3u8
+
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Toffee HD
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
 
@@ -126,6 +130,12 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9XM HD
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9XM HD
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9XM HD
+https://epiconvh.akamaized.net/live/9XM/master.m3u8
+
 #EXTINF:-1 tvg-id="211" tvg-name="ATN Music (360p)" tvg-logo="https://ui-avatars.com/api/?name=ATN%20Music%20(360p)&background=0D1117&color=00B4D8&bold=true" group-title="Music", ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
@@ -180,8 +190,14 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
 # ─────────── Kids ───────────
 
-#EXTINF:-1 tvg-id="337" tvg-name="Motu Patlu" tvg-logo="https://ui-avatars.com/api/?name=Motu%20Patlu&background=0D1117&color=00B4D8&bold=true" group-title="Kids",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Motu Patlu" tvg-logo="https://i.ibb.co.com/8n10qBrs/Motu-Patlu.jpg" group-title="Kids",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Doraemon TV" tvg-logo="https://i.ibb.co.com/cKr0xS87/Doraemon.jpg" group-title="Kids",Doraemon TV
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Gopal Bhar TV" tvg-logo="https://i.ibb.co.com/XkJhhwyW/Gopal-Bhar.jpg" group-title="Kids",Gopal Bhar TV
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="337" tvg-name="Tom & Jarry" tvg-logo="https://i.ibb.co.com/v4kdKGZ6/yyyr.png" group-title="Kids",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="220000" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 tvg-id="221000" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family
