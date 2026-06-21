@@ -2,8 +2,11 @@
 
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Fox
 http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://sm-live-tv-channel-logo.pages.dev/image/T_Sports.png" group-title="Sports", T Sports
-http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Toffee HD
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", T Sports HD bd
+https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=270&redirect_stream=true&api_password=Milito22.
 
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" group-title="Sports", GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
