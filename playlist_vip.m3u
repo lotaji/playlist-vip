@@ -6,11 +6,8 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Sports hd
 https://live05.msdht.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Toffee HD
-https://sm-monirul.top/tof/live/toffee4/index.m3u8
-
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", T Sports HD bd
-https://easyproxymiopersonale.dpdns.org/extractor/video?host=dlstreams&url=https://dlhd.pk/watch.php?id=270&redirect_stream=true&api_password=Milito22.
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" group-title="Sports", GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -197,7 +194,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="337" tvg-name="Gopal Bhar TV" tvg-logo="https://i.ibb.co.com/XkJhhwyW/Gopal-Bhar.jpg" group-title="Kids",Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="337" tvg-name="Tom & Jarry" tvg-logo="https://i.ibb.co.com/v4kdKGZ6/yyyr.png" group-title="Kids",Tom & Jarry
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="220000" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 tvg-id="221000" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family
