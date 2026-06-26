@@ -9,7 +9,10 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Sports hd
 https://live05.msdht.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", T Sports HD bd
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="Sports", T Sports HD bd
+https://s2.itcnbd.live/somoy-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="Sports", T Sports HD bd
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" group-title="Sports", GO Live
@@ -118,6 +121,12 @@ https://trs1.aynaott.com/zeebangla/index.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Bengali - Entertainment",Colors Bangla HD (720p)
 https://trs1.aynaott.com/colorsbangla/index.m3u8
 
+#EXTINF:-1 tvg-id="Sun Bangla HD" tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bengali - Entertainment",Sun Bangla HD
+https://s2.itcnbd.live/sun-bangla-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Jalsha Movies HD" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Bengali - Entertainment",Jalsha Movies HD
+https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
+
 
 # ─────────── Hindi ───────────
 
@@ -143,16 +152,16 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 
 # ─────────── Music ───────────
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Tashan
+#EXTINF:-1 group-title="Music" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/9X_Tashan_Logo.jpg", 9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png", 9XM HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png", 9XM HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png", 9XM HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-name="ATN Music (360p)" tvg-logo="https://ui-avatars.com/api/?name=ATN%20Music%20(360p)&background=0D1117&color=00B4D8&bold=true" group-title="Music", ATN Music (360p)
@@ -164,14 +173,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png", YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jalwa
+#EXTINF:-1 group-title="Music" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XJalwa.pngg", 9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", 9X Jhakaas
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png", 9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/LmVOSdl3ku.png", Sangeet Bangla
-https://trs1.aynaott.com/SangeetBangla/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/LmVOSdl3ku.png", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -179,7 +185,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png", Bengali Beat
 https://tplay.live/originals/bengali-beats/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom (720p)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="Music",Zoom (720p)
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music",Steelbird Music (720p) [Not 24/7]
@@ -202,6 +208,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 # ─────────── Movies ───────────
 
+
+#EXTINF:-1 tvg-id="197000" tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Colors Cineplex HD
+https://s2.itcnbd.live/colors-cineplex-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="197000" tvg-name="Star Gold HD" tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Movies",Star Gold HD
+https://s2.itcnbd.live/star-gold-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="197000" tvg-name="Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="Movies",Star Movies HD
+https://s2.itcnbd.live/star-movies-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
