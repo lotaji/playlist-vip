@@ -209,6 +209,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 # ─────────── Movies ───────────
 
 
+#EXTINF:-1 tvg-id="197000" tvg-name="AXN Asia Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Thailand
+http://54.37.19.157/axn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="197000" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
 #EXTINF:-1 tvg-id="197000" tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Colors Cineplex HD
 https://s2.itcnbd.live/colors-cineplex-hd/index.m3u8
 
