@@ -1,6 +1,17 @@
 # ─────────── Sports ───────────
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="bioscope" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", bioscope
+
+#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" tvg-logo="https://images.seeklogo.com/logo-png/19/1/geo-super-logo-png_seeklogo-198639.png" group-title="Sports",GEO Super
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/ptv%20sports.png" group-title="Sports", PTV Sports
+https://s2.itcnbd.live/ptv-sports-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://i.ibb.co.com/35GSmGVJ/download.jpg" group-title="Sports", A Sports HD
+https://s2.itcnbd.live/a-sports-hd/index.m3u8
+
+
+#EXTINF:-1 tvg-id="bioscope" tvg-name="bioscope" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", bioscope
 http://sm-monirul.top/ott/bioscope/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Fox
@@ -9,11 +20,9 @@ http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Sports hd
 https://live05.msdht.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="Sports", T Sports HD bd
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports", T Sports HD bd
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 https://s2.itcnbd.live/somoy-tv/index.m3u8
-
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg" group-title="Sports", T Sports HD bd
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" group-title="Sports", GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -28,13 +37,9 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" group-title="Sports", Unite8 Sports 2 HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" group-title="Sports", Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
+https://s2.itcnbd.live/and-flix-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" tvg-logo="https://images.seeklogo.com/logo-png/19/1/geo-super-logo-png_seeklogo-198639.png" group-title="Sports",GEO Super
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 
 
 
@@ -121,6 +126,7 @@ https://s2.itcnbd.live/zee-bangla-hd/index.m3u8
 https://trs1.aynaott.com/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Bengali - Entertainment",Colors Bangla HD (720p)
+https://s2.itcnbd.live/colors-bangla-hd/index.m3u8
 https://trs1.aynaott.com/colorsbangla/index.m3u8
 
 #EXTINF:-1 tvg-id="Sun Bangla HD" tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bengali - Entertainment",Sun Bangla HD
@@ -140,12 +146,15 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi",StarPlus HD
 https://trs1.aynaott.com/starplushd/index.m3u8
+https://s2.itcnbd.live/star-plus-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi - Entertainment",Colors HD (720p)
 https://trs1.aynaott.com/colorshd/index.m3u8
+https://s2.itcnbd.live/colors-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",&TV International (1080p)
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+https://server.itcnbd.live/stream/and_tv_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Hindi - Entertainment",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
@@ -159,11 +168,7 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png", 9XM HD
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="211" tvg-name="ATN Music (360p)" tvg-logo="https://ui-avatars.com/api/?name=ATN%20Music%20(360p)&background=0D1117&color=00B4D8&bold=true" group-title="Music", ATN Music (360p)
@@ -195,14 +200,19 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Music",Vevo Pop (1080p)
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Vevo 2K (1080p)
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK (1080p)
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3X9Gg4.png" group-title="Music",Trace Mziki
 https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="Music",Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",Trace Brasil (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 
@@ -212,6 +222,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Asia Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Thailand
+https://s2.itcnbd.live/axn-hd/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies",AXN Movies
@@ -226,6 +237,9 @@ https://s2.itcnbd.live/star-gold-hd/index.m3u8
 #EXTINF:-1 tvg-id="197000" tvg-name="Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="Movies",Star Movies HD
 https://s2.itcnbd.live/star-movies-hd/index.m3u8
 
+#EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://ui-avatars.com/api/?name=HBO&background=0D1117&color=00B4D8&bold=true" group-title="Movies",HBO
+http://103.213.31.111/HBOHD/index.m3u8
+
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
@@ -237,9 +251,6 @@ https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="243000" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="Movies",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-
-#EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://ui-avatars.com/api/?name=HBO&background=0D1117&color=00B4D8&bold=true" group-title="Movies",HBO
-http://103.213.31.111/HBOHD/index.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="MovieSphere" tvg-logo="https://s3.aynaott.com/storage/4d343b446b1e7164bb7239bbe822a570" group-title="Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
