@@ -4,16 +4,6 @@
 #EXTINF:-1 tvg-id="GEO_SUPER" tvg-name="GEO Super" tvg-logo="https://images.seeklogo.com/logo-png/19/1/geo-super-logo-png_seeklogo-198639.png" group-title="Sports",GEO Super
 https://ml-pull-dvc-myco.io:2096/GEO_SUPER/index.m3u8
 
-#EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/ptv%20sports.png" group-title="Sports", PTV Sports
-https://s2.itcnbd.live/ptv-sports-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://i.ibb.co.com/35GSmGVJ/download.jpg" group-title="Sports", A Sports HD
-https://s2.itcnbd.live/a-sports-hd/index.m3u8
-
-
-#EXTINF:-1 tvg-id="bioscope" tvg-name="bioscope" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", bioscope
-http://sm-monirul.top/ott/bioscope/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", Fox
 http://84.17.50.102/fox/index.m3u8
 
@@ -22,7 +12,7 @@ https://live05.msdht.app/live/24561735.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports", T Sports HD bd
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
-https://s2.itcnbd.live/somoy-tv/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://go-live.info/wp-content/uploads/2024/09/logowhitenew.webp" group-title="Sports", GO Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
@@ -39,7 +29,7 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png" group-title="Sports", Unite8 Sports 2 HD
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-https://s2.itcnbd.live/and-flix-hd/index.m3u8
+
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",ESPN3HD
@@ -246,21 +236,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangladesh",Star Jalsha HD (720p)
 https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Bangladesh",Zee Bangla HD (720p)
-https://server.itcnbd.live/stream/zee_bangla.m3u8
-https://s2.itcnbd.live/zee-bangla-hd/index.m3u8
-https://trs1.aynaott.com/zeebangla/index.m3u8
-
-#EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="Bengali - Entertainment",Colors Bangla HD (720p)
-https://s2.itcnbd.live/colors-bangla-hd/index.m3u8
-https://trs1.aynaott.com/colorsbangla/index.m3u8
-
-#EXTINF:-1 tvg-id="Sun Bangla HD" tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bengali - Entertainment",Sun Bangla HD
-https://s2.itcnbd.live/sun-bangla-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Jalsha Movies HD" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Bengali - Entertainment",Jalsha Movies HD
-https://s2.itcnbd.live/jalsha-movies-hd/index.m3u8
-
 
 # ─────────── Hindi ───────────
 
@@ -270,20 +245,15 @@ https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66
 #EXTINF:-1 tvg-id="207" tvg-name="Geo ENT" tvg-logo="https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596" group-title="Hindi", Geo ENT
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi",StarPlus HD
-https://trs1.aynaott.com/starplushd/index.m3u8
-https://s2.itcnbd.live/star-plus-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Hindi - Entertainment",Colors HD (720p)
-https://trs1.aynaott.com/colorshd/index.m3u8
-https://s2.itcnbd.live/colors-hd/index.m3u8
-
 #EXTINF:-1 tvg-id="AndTV.in@International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",&TV International (1080p)
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
-https://server.itcnbd.live/stream/and_tv_hd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Hindi - Entertainment",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Hindi - Entertainment",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 
 
 
@@ -352,20 +322,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Asia Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Thailand
-https://s2.itcnbd.live/axn-hd/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-
-#EXTINF:-1 tvg-id="197000" tvg-name="Colors Cineplex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png" group-title="Movies",Colors Cineplex HD
-https://s2.itcnbd.live/colors-cineplex-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="197000" tvg-name="Star Gold HD" tvg-logo="https://i.ibb.co.com/chYLCJfN/star-gold.png" group-title="Movies",Star Gold HD
-https://s2.itcnbd.live/star-gold-hd/index.m3u8
-
-#EXTINF:-1 tvg-id="197000" tvg-name="Star Movies HD" tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="Movies",Star Movies HD
-https://s2.itcnbd.live/star-movies-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://ui-avatars.com/api/?name=HBO&background=0D1117&color=00B4D8&bold=true" group-title="Movies",HBO
 http://103.213.31.111/HBOHD/index.m3u8
@@ -453,9 +413,25 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",RK Top Movies Spain (1080p)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
-https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony Channel (720p)
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony Movies Latin America (720p)
+https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Favoris (1080p)
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action (1080p)
+https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Comedie (1080p)
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Series Comedie (1080p)
+https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Series Thriller (1080p)
+https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 
 
 # ─────────── Kids ───────────
