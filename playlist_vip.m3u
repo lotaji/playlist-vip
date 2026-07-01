@@ -9,12 +9,14 @@ http://ubuntu.moonplex.net:8080/Somoy_TV/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports", T Sports HD bd
+http://103.114.11.37:8081/T-Sports-BDIX-3-1080p/tracks-v1a1/mono.m3u8
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", FIFA Live 🇦🇺 🇹🇷 
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh" group-title="Sports", FIFA Live
+http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png", Sky Sports
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
