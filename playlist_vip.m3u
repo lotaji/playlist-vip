@@ -157,6 +157,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zTNJw4y1/zee.png" group-title="Bangla",Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
+http://27.124.71.27/Zee_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla",Star Jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
@@ -179,6 +180,7 @@ http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8?token=8ca2733bb35
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0Vr6dQCx/Sun-Bangla-HD-logo-2023.webp" group-title="Bangla",Sun Bangla
 http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
 # ─────────── Hindi ───────────
@@ -331,18 +333,24 @@ http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png" group-title="Movies",MOVIES-NOW
 http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8?token=8827e074d26958c8c9daa9a832390e68a169cd09-601dde3eea52847bbdd05b326099c905-1776169973-1776166373&remote=no_check_ip
+http://27.124.71.27/Movies_Now/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Asia Thailand" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia Thailand
 http://54.37.19.157/axn/playlist.m3u8
+http://27.124.71.27/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 #EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies",HBO
 http://103.213.31.111/HBOHD/index.m3u8
+http://27.124.71.27/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movies",HBO 2▶️
 https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="HBO 3" tvg-country="IN" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" tvg-chno="55" group-title="Movies",HBO 3▶️
+https://cdn01.medialive.one:2096/HBO3FHD/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
@@ -364,6 +372,7 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+http://27.124.71.27/MBC-Bollywood/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ENdbZn.png" group-title="Movies",Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
@@ -478,6 +487,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
+http://27.124.71.27/Animal_Planet/index.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet 2 ru
