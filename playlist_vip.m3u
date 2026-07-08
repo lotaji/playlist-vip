@@ -57,6 +57,7 @@ http://180.94.28.28:8097//Sony-Ten-3/index.fmp4.m3u8?token=526f36c79f8180dd8daca
 http://180.94.28.28:8097//Sony-Ten-5/index.fmp4.m3u8?token=a88b5a9fde25cedeb5f5cb8ca202a4754fe5b034-5499b22cfe75b04843bf08ac3a7c8988-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WWrnXpb5/PTV-Sports.png" group-title="Sports",PTV Sports
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/911324.m3u8
 http://180.94.28.28:8097//PTV-Sports/index.fmp4.m3u8?token=93bfc3e373ae64dfc86a2b064efcf164ab636f88-e915256d9d836a2b50774d2e1507e3b7-1776169972-1776166372&remote=no_check_ip
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
@@ -64,6 +65,7 @@ http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Kcj16KG3/unnamed.png" group-title="Sports",WILLOW_SPORTS
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/809386.m3u8
 http://180.94.28.28:8097//WILLOW-TV/index.fmp4.m3u8?token=6055d76fde871383221f98bb1dd55a0b96eca3f3-00a64a8486be06e5211e7b9fd64016f2-1776169972-1776166372&remote=no_check_ip
 http://27.124.71.27/Willow_Extra/index.m3u8
 
