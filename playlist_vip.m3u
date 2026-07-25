@@ -240,6 +240,8 @@ http://103.89.248.130:8082/JALSHA-MOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Indian Bangla",Jalsha Movies
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/155771.m3u8
 
+#EXTINF:-1 tvg-logo="https://karthavya.com/wp-content/uploads/2022/12/akash-bangla.jpg" group-title="Indian Bangla",AAKASH AATH
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla",Enter 10 Bangla
 http://103.89.248.130:8082/ENTER-10-BANGLA/index.m3u8
@@ -260,6 +262,7 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1112197.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp" group-title="Indian Bangla",Colors Bangla
+http://103.89.248.130:8082/Colors-Bangla/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/282063.m3u8
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip
 
@@ -298,6 +301,20 @@ https://stream.ottplus.bd/live/zee_action_abr/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",& Pictures HD
 
+#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES" ,Star Gold HD
+http://103.89.248.130:8082/star-gold/index.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
+https://monirul.bro.bd/sm/stream.php?id=star_gold_2_hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="star_gold_select_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="Hindi",STAR GOLD SELECT HD
+https://monirul.bro.bd/sm/stream.php?id=star_gold_select_hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
+https://monirul.bro.bd/sm/stream.php?id=star_movies_hd&e=.m3u8
+
+#EXTINF:-1 tvg-id="star_movies_select_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
+https://monirul.bro.bd/sm/stream.php?id=star_movies_select_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-name="HUM TV" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi", Hum TV HD
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/HUM/TV1/chunks.m3u8
@@ -469,9 +486,6 @@ http://27.124.71.27/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES" ,Star Gold HD
-http://103.89.248.130:8082/star-gold/index.m3u8
 
 #EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies",HBO
 http://103.213.31.111/HBOHD/index.m3u8
