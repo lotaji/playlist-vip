@@ -402,7 +402,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
-
+#EXTINF:-1 tvg-id="colors_hd" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
 
 
 # ─────────── Music ───────────
@@ -495,12 +495,15 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="325" tvg-name="HBO" tvg-logo="https://i.ibb.co.com/8D4tGtyb/6451.png" group-title="Movies",HBO
 http://103.213.31.111/HBOHD/index.m3u8
 http://27.124.71.27/HBO/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732928.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movies",HBO 2▶️
 https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732927.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="HBO 3" tvg-country="IN" tvg-logo="https://i.ibb.co.com/nqJh4SkK/hbo3hd.jpg" tvg-chno="55" group-title="Movies",HBO 3▶️
 https://cdn01.medialive.one:2096/HBO3FHD/index.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1732926.m3u8
 
 #EXTINF:-1 tvg-id="197000" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
@@ -586,6 +589,18 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 # ─────────── Sports ───────────
+
+#EXTINF:-1 group-title="TH| THAILAND" tvg-logo="http://picons.cmshulk.com/picons/1660493.png", PREMIERE LEAGUE 1▶️ Mobile+TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1660493.m3u8
+#EXTINF:-1 group-title="TH| THAILAND" tvg-logo="http://picons.cmshulk.com/picons/1660493.png", PREMIERE LEAGUE 2▶️ Mobile+TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1660492.m3u8
+#EXTINF:-1 group-title="RU| RUSSIA" tvg-logo="https://i.ibb.co.com/1Y6wGcWs/olz.png", MATCH-2 Laliga▶️ Mobile+TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/132562.m3u8
+#EXTINF:-1 group-title="MY| MALAYSIA" tvg-logo="https://i.ibb.co.com/LhJkvnMM/Astro-Football-2024.png", ASTRO Football▶️ Mobile+TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/571246.m3u8
+#EXTINF:-1 group-title="MY| MALAYSIA" tvg-logo="http://picons.cmshulk.com/picons/571244.png", CRICKET▶️ Mobile+TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/571244.m3u8
+
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/ZRTSsqGS/sky-sports-cricket.png", Sky Sports
