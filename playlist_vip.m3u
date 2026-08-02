@@ -10,6 +10,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports", T Sports HD bd
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ah-media-eug.pages.dev/logos/SomoyTV.png" group-title="Bangla", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
@@ -101,6 +102,7 @@ http://103.89.248.130:8082/NTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Bangla",Bangla TV
 https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
+https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -110,6 +112,7 @@ http://103.89.248.130:8082/EKUSHEY-TV/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-30 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 http://103.89.248.130:8082/RTV/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 
@@ -353,6 +356,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t47SV77h/image.png" group-title="𝐌𝐮𝐬𝐢𝐜",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png", 9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
@@ -549,16 +555,41 @@ https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 # ─────────── Sports ───────────
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 1
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/491/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 2
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Okko Спорт 3
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/493/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kC5wUK1hz4scxebl4K1cfEJEODwjrC6gHx5GGD18Wg&s=10", Go3 Sport 1
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn04.qazsporttv.kz/2025/10/09/1759985894_68e740e6b9337.jpg",qazsporttv
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sport-georgia.png" ,setanta-sport 
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/26909384-4bc8-43d6-86d0-d77eed1384db.png?width=70&height=40&quality=93" ,setanta 1
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://uztel.server-img.lfstrm.tv/images/cms/live/6a2b0c7e-40b4-461b-80b0-80ec88aba9d6.png?width=70&height=40&quality=93" ,setanta 2
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/2dd33c5f-e82b-41aa-9e84-e3feda26ec1b.png" ,setanta +
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/8.jpg", Матч! 1 🇷🇺
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/14.jpg", Матч! 2 🇷🇺
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://new.matchtv.ru/assets/202507251502/images/channels/140.jpg", Матч! 3 🇷🇺
+https://davidhzhdhd-my-telegram-bot.hf.space/hls-relay/stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1536x274.png" ,MaxSport3
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Belarus 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1660493.png", PREMIERE LEAGUE 1▶️ Mobile+TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1660493.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picons.cmshulk.com/picons/1660493.png", PREMIERE LEAGUE 2▶️ Mobile+TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/1660492.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/1Y6wGcWs/olz.png", MATCH-1▶️ Mobile+TV
-http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/1Y6wGcWs/olz.png", MATCH-2 Laliga▶️ Mobile+TV
-http://stream.mcquack.net/142/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/132562.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LhJkvnMM/Astro-Football-2024.png", ASTRO Football▶️ Mobile+TV
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/world/571246.m3u8
