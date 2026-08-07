@@ -52,6 +52,9 @@ http://103.89.248.130:8082/NEWS-24/index.m3u8
 #EXTINF:-1 tvg-id="191000" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="Bangla",Star News
 
 
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla", Ananda TV
+https://s2.itcnbd.live/server-2/stream/anandatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png" group-title="Bangla",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
@@ -267,6 +270,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1557
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+https://s2.itcnbd.live/server-2/stream/zee_bangla_cinema.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -275,10 +279,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 http://103.89.248.130:8082/ZEE-BANGLA-CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Indian Bangla",Zee Bangla
-http://103.89.248.130:8082/zee-bangla/index.m3u8
+https://s2.itcnbd.live/server-2/stream/zee_bangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Indian Bangla",Zee Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Indian Bangla",Zee Bangla
+http://103.89.248.130:8082/zee-bangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Indian Bangla",Zee Bangla HD
 http://27.124.71.27/Zee_Bangla/index.m3u8
@@ -320,7 +327,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLh8qFS9/Sony-AATH-Logo-2022.png" group-title="Indian Bangla",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp" group-title="Indian Bangla",Colors Bangla HD
 http://103.89.248.130:8082/Colors-Bangla/index.m3u8
@@ -357,6 +364,7 @@ https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png" group-title="Hindi Movies", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/zee_action.m3u8
 
 #EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-type="Music" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://i.ibb.co/39yLXH2v/unnamed.png",Zing
 https://stream.ottplus.live/live/zing_sd_abr/index.m3u8
@@ -370,8 +378,15 @@ https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp" group-title="Hindi Movies",Sony Max HD
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg",Sony Pix
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",Sony Entertainment Television HD
+https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",Sony Pix
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",Sony Pix
+https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
 
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg",NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
@@ -381,6 +396,7 @@ https://stream.ottplus.bd/live/zee_action_abr/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",& Pictures HD
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/andpicture_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="MOVIES" ,Star Gold HD
 http://103.89.248.130:8082/star-gold/index.m3u8
@@ -400,15 +416,15 @@ https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="207" tvg-name="SONY SAB" tvg-logo="https://ah-media-eug.pages.dev/logos/SonySAB.png" group-title="Hindi", SONY SAB
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
-
-#EXTINF:-1  tvg-logo="https://ah-media-eug.pages.dev/logos/Sonytv.png" group-title="Hindi",SONY TV
-https://stream.ottplus.bd/live/sony_ent_sd_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
 
 #EXTINF:-1  tvg-logo="https://ah-media-eug.pages.dev/logos/ZeeTV.png" group-title="Hindi",ZEE TV
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
 
 #EXTINF:-1  tvg-logo="https://ah-media-eug.pages.dev/logos/%26TV.png" group-title="Hindi",& TV
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
+https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 
 #EXTINF:-1 tvg-id="and_xplore" tvg-logo="http://monirul.bro.bd/assets/images/AND XPLORE1745043080.png" group-title="English",AND XPLORE
 
@@ -848,6 +864,7 @@ https://tvsen5.aynascope.net/espn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFbPQ6dN/Star-Sports-1-HD.png" group-title="Sports",Star Sports 1
 https://tvsen7.aynascope.net/sspts1/index.m3u8
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFbPQ6dN/Star-Sports-1-HD.png" group-title="Sports",Star Sports 1
 http://103.89.248.130:8082/STAR-SPORTS-1/index.m3u8
@@ -866,12 +883,14 @@ https://s3.itcnbd.live/channel/ea25a516d781cb1c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports",Sony Ten 1
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+https://s2.itcnbd.live/server-2/stream/sony_sports_1_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp" group-title="Sports",Sony Ten 1
 http://103.89.248.130:8082/Sony-TEN-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports",Sony Ten 2
 https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports",Sony Ten 2
 http://103.89.248.130:8082/sony-TEN-2/index.m3u8
@@ -1007,6 +1026,9 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 
 
 # ─────────── Documentary ───────────
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co.com/gbW1zqQ3/BBC-EARTH-RGB-GRAD-L.jpg", BBC Earth
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co.com/gbW1zqQ3/BBC-EARTH-RGB-GRAD-L.jpg", BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
